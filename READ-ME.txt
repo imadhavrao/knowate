@@ -1,0 +1,7 @@
+  =>  Template Name    : knowate
+
+  =>  Template License : knowate.com (or read the LICENSE.txt file)
+
+  =>  Template Author  : Madhava Rao
+
+  =>  Author Website   : Madhava Rao
